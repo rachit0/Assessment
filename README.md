@@ -8,9 +8,17 @@ This project is a **Full Stack Application** using:
 - **Shared ORM Library:** Sequelize models for database management
 
 ---
+Follow these steps to set up and run the project.
+
+### 🔹 1. Clone the Repository
+```sh
+git clone https://github.com/rachit0/Assessment.git
+cd Assessment
+```
 for running the project 1. cd shared-orm -> npm run build
 2. cd backend -> npm run start:dev
 3. cd frontend -> npm start
+```
 
 
 ## 📁 Project Structure
@@ -39,6 +47,9 @@ shared-orm/
 ├── package.json
 └── README.md
 
+![Screenshot (27)](https://github.com/user-attachments/assets/3f1020bd-3875-445c-a67e-f460d08a40d3)
+
+
 # Backend
 REST API for MyStore using NestJS and Sequelize.
 
@@ -61,6 +72,9 @@ backend/
 ├── package.json
 └── README.md
 
+![Screenshot (26)](https://github.com/user-attachments/assets/ba8becb2-c71f-4da4-9d8e-9d0be2d027fe)
+
+
 # Frontend
 React app to display products from the MyStore API.
 
@@ -77,6 +91,9 @@ frontend/
 │   └── index.js
 ├── package.json
 └── README.md
+
+![Screenshot (25)](https://github.com/user-attachments/assets/ef368b18-0440-4c69-a76c-55ab0d930174)
+
 
 
 
