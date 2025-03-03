@@ -10,14 +10,13 @@ This project is a **Full Stack Application** using:
 ---
 Follow these steps to set up and run the project.
 
-### 🔹 1. Clone the Repository
+###  1. Clone the Repository
 ```sh
 git clone https://github.com/rachit0/Assessment.git
 cd Assessment
-```
-for running the project 1. cd shared-orm -> npm run build
-2. cd backend -> npm run start:dev
-3. cd frontend -> npm start
+```  for running the project 1. cd shared-orm -> npm run build
+  2. cd backend -> npm run start:dev
+  3. cd frontend -> npm start
 ```
 
 
